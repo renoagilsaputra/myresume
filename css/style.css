@@ -1,0 +1,92 @@
+
+.clearfix {
+    clear: both;
+}
+.wrapper {
+    /* padding: 10px; */
+    /* background: #f00; */
+    width: 80em;
+    height: 45em;
+    margin: 100px auto;
+    box-shadow: 4px 4px 4px #ccc;
+}
+/*  */
+
+.left {
+    /* padding: 10px; */
+    /* background: #ccc; */
+    width: 18em;
+    float: left;
+}
+
+.top {
+    padding: 10px;
+    height: 15em;
+    background: rgb(109, 109, 109);
+}
+
+.top img {
+    width: 150px;
+    height: 150px;
+    margin: 10px auto;
+    display: block;
+}
+
+.top h2 {
+    font-family: sans-serif;
+    text-align: center;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.top p {
+    font-family: sans-serif;
+    text-align: center;
+    color: #fff;
+    margin-top: 0px;
+}
+
+.bottom {
+    padding: 10px;
+    height: 27.5em;
+    background: rgb(212, 211, 211);
+}
+
+.bottom ul {
+    margin-top: 2em;
+    margin-left: -2em;
+}
+
+.bottom ul li {
+    list-style-type: none;
+    font-family: sans-serif;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.bottom p {
+    text-align: justify;
+    font-family: sans-serif;  
+    padding: 5px;
+}
+/*  */
+
+.right {
+    padding: 10px;
+    background: #eee;
+    width: 60.75em;
+    height: 43.72em;
+    float: right;
+}
+
+.right h1 {
+    padding: 10px;
+    font-family: sans-serif;
+}
+.right hr {
+    border: solid 2px #222;
+}
+
+.right table tr td {
+    font-family: sans-serif;
+}
